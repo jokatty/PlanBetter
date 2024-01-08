@@ -1,0 +1,32 @@
+# Node.js related files
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Sequelize related files
+.sequelize/
+models/*.js
+migrations/*.js
+seeders/*.js
+
+# Environment variables
+.env
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# Logs and runtime data
+logs/
+*.log
+
+# Temporary files
+*.swp
+
+# Build artifacts
+build/
+dist/
+
+# Operating System files
+.DS_Store
+Thumbs.db

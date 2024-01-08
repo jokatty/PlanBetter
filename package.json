@@ -1,0 +1,14 @@
+{
+  "name": "planbetter",
+  "version": "1.0.0",
+  "description": "an app to plan your vacation better.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
